@@ -6,3 +6,6 @@ Ovo je proba
 jooooj
 
 ## sub2
+
+## local development 
+1.  otvori index.html
